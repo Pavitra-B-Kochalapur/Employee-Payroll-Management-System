@@ -82,19 +82,4 @@ iii. Test RESTful API end points using Postman for CRUD operations:
 
 ## 6. Contributing:
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change at:
-
-Spring Guide Github Repo: https://github.com/spring-guides/tut-rest.
-
-
-## 7. Original Creator:
-
-Author:  SPRING by VMware Tanzu
-
-Tutorial Name: "Building REST services with Spring"
-
-Spring URL: https://spring.io/guides/tutorials/rest/
- 
-Github Project Name: Building REST Services with Spring
-
-Github URL: https://github.com/spring-guides/tut-rest
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change at.
